@@ -1,0 +1,5 @@
+/.vscode
+/IdentityServerSample.App/bin/*
+/IdentityServerSample.App/obj/*
+/IdentityServerSample.Hosting/bin/*
+/IdentityServerSample.Hosting/obj/*
